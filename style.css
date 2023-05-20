@@ -21,7 +21,7 @@ h1:hover {
     animation: color-change 3s infinite; 
 }
 h1 {
-    color: #00ff88; /* Цвет заголовка */
+    color: #FD98FB; /* Цвет заголовка */
     font-size: 24px; /* Размер шрифта в пунктах */
     font-family: Georgia, serif; /* Семейство шрифтов */
 }
@@ -29,7 +29,7 @@ h2:hover {
     animation: color-change 3s infinite; 
 }
 h2 {
-    color: #00ff88; /* Цвет заголовка */
+    color: #FD98FB; /* Цвет заголовка */
     font-size: 24px; /* Размер шрифта в пунктах */
     font-family: Arial,  sans-serif; /* Семейство шрифтов */
 }
